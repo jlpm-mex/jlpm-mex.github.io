@@ -6,7 +6,7 @@
   <!-- <a href="https://activities.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Real Time Bus Tracker</h1>
+<h1 align="center">Home Page</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/jlpm-mex/jlpm-mex.github.io?color=56BEB8">
