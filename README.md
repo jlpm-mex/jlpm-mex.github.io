@@ -71,18 +71,6 @@ Las siguientes herramietas se utilizaron en este proyecto
 
 Antes de empezar :checkered_flag:, es necesario contar con [Git](https://git-scm.com), un navegador instalado.
 
-## :checkered_flag: Empezando ##
-
-```bash
-# Clonar este proyecto
-$ git clone https://github.com/jlpm-mex/RealTimeBusTracker
-
-# Acceder a la carpeta donde se clono el proyecto
-$ cd workspace
-```
-ejecutar index.html en un navegador
-
-
 ## :memo: Licencia ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
