@@ -12,6 +12,33 @@ body{
 
 .main_image{
     width: 100%;
+    max-width: 250px;
     box-shadow:  8px -3px 4px 3px hwb(213deg 35% 60% / 48%);
     border-radius: 10px;
+}
+
+.txt_aboutme{
+    text-align: justify;
+}
+
+.custom-popover {
+    --bs-popover-max-width: 200px;
+    --bs-popover-border-color: var(--bs-primary);
+    --bs-popover-header-bg: var(--bs-primary);
+    --bs-popover-header-color: var(--bs-white);
+    --bs-popover-body-padding-x: 1rem;
+    --bs-popover-body-padding-y: .5rem;
+  }
+
+i{
+    font-size: 20px;
+}
+
+a{
+    color:rgb(4, 165, 76);
+    font-size: 15px;
+}
+
+.imgme{
+    border-radius: 50%;
 }
